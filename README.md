@@ -66,8 +66,8 @@ Vocabulary Logits
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo>.git
-cd <repo>
+git clone https://github.com/DaanishSharma/GPT2
+cd GPT2
 
 pip install torch transformers tiktoken
 ```
